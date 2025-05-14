@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thayanantham R K</h1>
 <h3 align="center">A passionate FullStack developer,Intersted in Problem Solving and Project Development 👾👾</h3>
 
+- 🔭 Trainee Software Engineer **mobi**
 - 🔭 I’m currently studying in **KGiSL Institute of Technology**
 
 - 🌱 I’m currently learning **Springboot**
