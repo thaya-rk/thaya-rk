@@ -4,8 +4,7 @@
 - 🔭 Trainee Software Engineer **mobi**
 - 🔭 Graduate from **KGiSL Institute of Technology**
 
-- 🌱 **Springboot**
-- **Angular**
+- 🌱 **Springboot**,**Angular**
 
 - 💬 Ask me about **Web development,Finance,Tech**
 
